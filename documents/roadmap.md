@@ -529,3 +529,18 @@ B) আমরা শুধু engine-side adapt করব
 নন-টেক মানুষের মতো করে আপনাকে প্রথম কাজটা করাবো।
 
 এভাবেই আমরা এক পাশ থেকে পুরো সিস্টেম ঠিক করব।
+
+
+
+
+PHASE–4: Counter System
+🔥 This dashboard = entire Phase–4
+
+PHASE–8: Referral & Commission
+→ hooks already reserved
+
+PHASE–9: Expense
+→ already embedded
+
+PHASE–10.5: Geo Analytics
+→ address data already structured
